@@ -6,4 +6,4 @@ About me:
 * Author of [Writing for Software Developers](https://wfsd.com)
 * Working on [Life-Changing Email](https://lifechangingemail.com)
 * Based in Chicago
-* BJJ, TKD, NFL, MCU, and a good book!
+* Fan of BJJ, TKD, NFL, MCU, and a good book!
