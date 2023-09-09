@@ -1,5 +1,9 @@
-### Hi, I'm Philip
+## Hi, I'm Philip!
 
-* I wrote a book, [Writing for Software Developers](https://philipkiely.com/wfsd) and it would mean the world to me if you read it.
-* Check out repositories like devices.css for my small open-source projects
-* Many of my repositories connect to [articles written for clients](https://philipkiely.com/essays/posts.html).
+About me:
+
+* Docs & DX @ [Baseten](https://baseten.co)
+* Author of [Writing for Software Developers](https://wfsd.com)
+* Working on [Life-Changing Email](https://lifechangingemail.com)
+* Based in Chicago
+* BJJ, TKD, NFL, MCU, and a good book!
